@@ -1,1 +1,8 @@
+Built based on screenshots from SonicWall NetExtender 8.6.263 on Windows OS.   
 
+This script will automatically login and if it detects if the application is not running or 
+the service is not running it will go and start them. 
+
+This script will need to be run with admin priviledges as it has to have access to the Services of Windows.   
+
+Also, this only currently works when the Application is opened onto the main monitor.
